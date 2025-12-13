@@ -17,7 +17,7 @@ function App() {
         {/* Logo */}
         <div className="mx-auto w-24 h-24 bg-blue-900 rounded-3xl flex items-center justify-center shadow-xl shadow-blue-900/20">
           <img
-            src="/image/Chreso-Logo.png"
+            src="https://github.com/ChresoDev25/ChresoAI/blob/main/image/chreso-logo.png?raw=true"
             alt="Logo"
             className="w-16 h-16 object-contain"
           />

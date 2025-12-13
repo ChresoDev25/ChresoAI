@@ -4,7 +4,7 @@ import { useGeminiLive } from '../hooks/useGeminiLive';
 import { ConnectionState } from '../types';
 
 // Updated Avatar URL to match the mid 30s African indigenous male anime-style AI agent description
-const AVATAR_URL = "/image/chreso.png"; 
+const AVATAR_URL = "https://github.com/ChresoDev25/ChresoAI/blob/main/image/chreso.png?raw=true"; 
 
 export const VoiceWidget: React.FC = () => {
   const { connectionState, errorMessage, isSpeaking, connect, disconnect } = useGeminiLive();

@@ -1,0 +1,7 @@
+{
+  "name": "Chreso University Voice Assistant",
+  "description": "An AI-powered voice assistant for Chreso University website visitors using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

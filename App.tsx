@@ -4,7 +4,7 @@ import { VoiceWidget } from './components/VoiceWidget';
 function App() {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col items-center justify-center p-6 relative overflow-hidden">
-      
+
       {/* Decorative background element */}
       <div className="absolute top-0 left-0 w-full h-full overflow-hidden z-0 pointer-events-none">
         <div className="absolute -top-[20%] -left-[10%] w-[50%] h-[50%] bg-blue-100 rounded-full blur-3xl opacity-30"></div>
@@ -17,7 +17,7 @@ function App() {
         {/* Logo */}
         <div className="mx-auto w-24 h-24 bg-blue-900 rounded-3xl flex items-center justify-center shadow-xl shadow-blue-900/20">
           <img
-            src="https://github.com/ChresoDev25/ChresoAI/blob/main/image/chreso-logo.png?raw=true"
+            src="/image/Chreso-Logo.png"
             alt="Logo"
             className="w-16 h-16 object-contain"
           />

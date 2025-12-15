@@ -1,3 +1,7 @@
+export const GEMINI_MODEL = 'gemini-2.5-flash-native-audio-preview-09-2025';
+
+// Pre-defined knowledge base for the university to ensure accurate FAQ responses without needing constant search
+
 const UNIVERSITY_PUBLIC_KNOWLEDGE = `
 ABOUT CRESO UNIVERSITY
 - Creso University is a Christian University in Zambia.

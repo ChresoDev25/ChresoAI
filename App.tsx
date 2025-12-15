@@ -32,7 +32,7 @@ function App() {
         </div>
 
         <p className="text-slate-500 text-lg leading-relaxed">
-          Tap the floating avatar below and Say... <span className="font-bold" style={{ color: "#a80909ff" }}>"Hello"</span> to get started.
+          Tap the floating avatar below and Say... <span className="font-bold" style={{ color: "#a80909ff" }}>"Hello."</span>
         </p>
 
 

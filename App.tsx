@@ -34,7 +34,7 @@ function App() {
          <p className="text-slate-500 text-lg leading-relaxed">
              Tap the floating avatar below and Say...{" "}
               <span className="font-bold text-red-800">
-                  Hello<span className="text-white">.............</span>
+                  Hello<span className="text-gray-200">.............</span>
               </span>
           </p>
 

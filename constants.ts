@@ -15,6 +15,20 @@ CAMPUSES
 - Makeni Campus: Lusaka, along Nampundwe Road
 - Ndola Campus: Fisenge, Luanshya, Copperbelt
 
+FULL CAMPUS ADDRESS LOCATION
+- City Campus (Headquarters)
+   Plot 17734, Nangwenya Road,
+   P.O.Box 37178.
+   Lusaka ZM, 10101.
+  
+- Makeni Campus
+   Plot No 3546, Makeni Road,
+   Nampundwe ZM, 1010.1
+   
+- Copperbelt Campus
+   Plot number Luans/4029740,
+   Fisenge Luanshya ZM, 10101
+
 MODES OF STUDY
 - Full-time: Learning fully on campus
 - Distance learning: Online learning with residential sessions for examinations
